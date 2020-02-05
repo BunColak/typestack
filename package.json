@@ -1,0 +1,26 @@
+{
+  "name": "type-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Bün Colak <bun.colak@motius.de>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/bcrypt": "^3.0.0",
+    "bcrypt": "^3.0.7",
+    "class-validator": "^0.11.0",
+    "graphql": "^14.6.0",
+    "graphql-yoga": "^1.18.3",
+    "reflect-metadata": "^0.1.13",
+    "sqlite3": "^4.1.1",
+    "type-graphql": "^0.17.6",
+    "typedi": "^0.8.0",
+    "typeorm": "^0.2.22",
+    "typeorm-typedi-extensions": "^0.2.3"
+  },
+  "devDependencies": {
+    "@types/graphql": "^14.5.0",
+    "@types/node": "^13.7.0",
+    "ts-node": "^8.6.2",
+    "typescript": "^3.7.5"
+  }
+}
